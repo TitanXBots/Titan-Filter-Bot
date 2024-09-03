@@ -1,11 +1,11 @@
 services:
   # A Docker web service
   - type: web
-    name: Jisshu-Auto-filter
+    name: Titan-Filter-Bot 
     env: python
     startCommand: python3 bot.py
     buildCommand: pip3 install -U -r requirements.txt
-    repo: https://github.com/Jisshubot/Jisshu-Auto-filter # optional
+    repo: https://github.com/TitanXBots/Titan-Filter-Bot # optional
     region: oregon # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     branch: main # optional (defaults to master)
