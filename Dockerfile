@@ -6,7 +6,7 @@ COPY requirements.txt /requirements.txt
 
 RUN cd /
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
-RUN mkdir /Jisshu-filter-bot
-WORKDIR /Jisshu-filter-bot
-COPY . /Jisshu-filter-bot
+RUN mkdir /Titan-Filter-Bot 
+WORKDIR /Titan-Filter-Bot 
+COPY . /Titan-Filter-Bot 
 CMD ["python", "bot.py"]
