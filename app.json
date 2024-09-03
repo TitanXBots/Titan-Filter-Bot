@@ -1,5 +1,5 @@
 {
-    "name": "Jisshu-filter-bot",
+    "name": "Titan-Filter-Bot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Jisshubot/Jisshu-filter-bot",
-    "repository": "https://github.com/Jisshubot/Jisshu-filter-bot",
+    "website": "https://github.com/TitanXBots/Titan-Filter-Bot",
+    "repository": "https://github.com/TitanXBots/Titan-Filter-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
