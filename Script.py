@@ -242,7 +242,7 @@ developer : Mr.Yash
 </b>""" 
 
     
-    CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Pirates_Titans">𝗣𝗶𝗿𝗮𝘁𝗲𝘀 𝗧𝗶𝘁𝗮𝗻𝘀</a>」</b>"""
+    CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/TitanXBackup">𝗣𝗶𝗿𝗮𝘁𝗲𝘀 𝗧𝗶𝘁𝗮𝗻𝘀</a>」</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
