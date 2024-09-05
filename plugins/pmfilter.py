@@ -1784,7 +1784,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     #jisshu
     elif query.data == "channels":
         buttons = [[
-            InlineKeyboardButton('⚜️ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ⚜️', url='https://t.me/MAP_Originals_Backup')
+            InlineKeyboardButton('⚜️ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ⚜️', url='https://t.me/Pirates_Titans')
         ],[
             InlineKeyboardButton('🔍 ɢʀᴏᴜᴘ¹', url='https://t.me/+EKqYGEQ6qUEyZjA9'),
             InlineKeyboardButton('ɢʀᴏᴜᴘ² 🔎', url='https://t.me/+EKqYGEQ6qUEyZjA9')
